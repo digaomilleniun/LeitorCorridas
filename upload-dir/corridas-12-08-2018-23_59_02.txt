@@ -1,0 +1,6 @@
+Código Piloto=038, Nome Piloto=F.MASSA, Qtde Voltas Completadas=4, Tempo Total de Prova=12:04:11
+Código Piloto=015, Nome Piloto=F.ALONSO, Qtde Voltas Completadas=4, Tempo Total de Prova=12:04:54
+Código Piloto=002, Nome Piloto=K.RAIKKONEN, Qtde Voltas Completadas=4, Tempo Total de Prova=12:04:15
+Código Piloto=023, Nome Piloto=M.WEBBER, Qtde Voltas Completadas=4, Tempo Total de Prova=12:04:17
+Código Piloto=033, Nome Piloto=R.BARRICHELLO, Qtde Voltas Completadas=4, Tempo Total de Prova=12:04:16
+Código Piloto=011, Nome Piloto=S.VETTEL, Qtde Voltas Completadas=3, Tempo Total de Prova=09:06:27
